@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    safe_attribute_assignment (0.0.1)
+    safe_attribute_assignment (0.0.2)
       activesupport
 
 GEM
